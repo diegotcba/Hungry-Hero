@@ -22,16 +22,4 @@
 		<nature>com.adobe.flexbuilder.project.apollonature</nature>
 		<nature>com.adobe.flexbuilder.project.actionscriptnature</nature>
 	</natures>
-	<linkedResources>
-		<link>
-			<name>[source path] PrimaryFeather-Starling-Extension-Particle-System-583807c-src</name>
-			<type>2</type>
-			<location>/Users/hsharma/Documents/DATA/Current/Work/SDK/Starling Extensions/Particles/PrimaryFeather-Starling-Extension-Particle-System-583807c/src</location>
-		</link>
-		<link>
-			<name>[source path] starling-src</name>
-			<type>2</type>
-			<location>/Users/hsharma/Documents/DATA/Current/Work/SDK/Starling/PrimaryFeather-Starling-Framework-64579fd/starling/src</location>
-		</link>
-	</linkedResources>
 </projectDescription>
